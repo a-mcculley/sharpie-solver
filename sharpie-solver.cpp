@@ -209,7 +209,7 @@ void read_input(vector<box>& boxes, size_t& uniqueCount, bool checkData, ifstrea
 
 int main()
 {
-    ifstream inputFile("sharpieinventory.txt");
+    ifstream inputFile("sharpie-packs.txt");
     
     if(!inputFile.is_open())
     {

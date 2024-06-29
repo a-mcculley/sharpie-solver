@@ -1,7 +1,7 @@
 # sharpie-solver
 Note (2024): This was originally written in 2020 when I was far less skilled, as a result this code is very sloppy; it solves the problem in a (relatively) clunky way, is certainly not fast, and does not exhibit great style. I would approach the problem differently if I were
 to work on it again, and it isn't representative of my current skill level. Additionally, if I recall correctly, when I edited it last I was experimenting with minimizing different parameters and playing around with the code, as a result I may have left it in a broken state 
-I do know that it was working at one point though. 
+I do know that it was working at one point though. Additionally, since this was built to solve a specific problem, I was expecting to only run it once, so the inefficiency was more excusable.
 
 Note (2024): The input list containing all of the packs of sharpies is certainly out of date. The prices likely have changed, some colors/themes/packs may be discontinued, new colors or packs have certainly introduced, etc. If you desire to use this, you'd have to update that file.
 Good luck though, since sharpies have oddly little documentation; finding a list of colors was very very hard, as was lists of which colors were in each pack or full lists of pack.  
